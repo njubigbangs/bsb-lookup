@@ -47,8 +47,7 @@ You have the right to:
 We may update this privacy policy as needed. Significant changes will be notified through the Extension's update notes.
 
 ## Contact
-For privacy-related questions or concerns, please contact:
-[Your Email Address]
+For privacy-related questions or concerns, please contact: zhanglidong212@gmail.com
 
 ## Compliance
 This Extension complies with Chrome Web Store's privacy requirements and data handling best practices. 
